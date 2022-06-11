@@ -6,6 +6,6 @@ Original font is named `DejaVu Sans Mono`, below you can find edits made by chri
 
 These characters were modified by me:
 ![image](https://user-images.githubusercontent.com/34658474/173202276-13971034-36e3-4381-a063-145a965b96fb.png)
-
+(Tilde has smooth start and end, "at" has longer "tail", backtick has smaller angle, braces are longer)
 Some characters have their position changed (like l,r,k).
 My edition also has Fira Code Ligatures using [this](https://github.com/ToxicFrog/Ligaturizer) tool.
